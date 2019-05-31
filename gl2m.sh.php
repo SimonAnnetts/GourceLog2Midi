@@ -101,7 +101,7 @@ $notes=$notes1;
 function usage() {
     global $separators,$framerates,$framerate,$valid_notes,$notes,$durations,$duration,$channels,$tracks,$octaves,$programs;
     return "
-usage: gtl2m.sh.php -i File -o File -r Framerate
+usage: gl2m.sh.php -i File -o File -r Framerate
 
 Convert a Gource timing log to a MIDI file to enable adding sound to a Gource Video.
 
