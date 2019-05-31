@@ -2,7 +2,7 @@
 Use a custom Gource timing log to create a midi file.
 
 You must use my customised version of Gource:
-https://github.com/SimonAnnetts/Gource
+https://github.com/SimonAnnetts/Gource/tree/timinglog
 
 
 
